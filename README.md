@@ -1,21 +1,11 @@
-<<<<<<< HEAD
-# app_gastei
+# Expense App Prototype | Gastei APP
 
-A new Flutter project.
+# Description
+Project created to record daily expenses quickly and easily and save them in a file on Google Drive for personal financial organization (mine).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# app-gastei
-Expense app prototype
->>>>>>> 5ad32ddee6111c837d6efee4e1fac8db559e34cb
+# Bibliography
+- https://docs.flutter.dev 
+- https://api.flutter.dev/index.html
+- https://script.google.com/home
+- https://chatgpt.com
+- https://pt.stackoverflow.com/questions/463662/flutter-como-alterar-o-tamanho-de-um-textfield-corretamente
